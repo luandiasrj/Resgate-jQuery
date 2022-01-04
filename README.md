@@ -2,7 +2,6 @@
 Mini projetos and desafios da [DIO's MRV Bootcamp.](https://web.dio.me/track/mrv-fullstack-developer)
 Ministrado pelo professor [@denilsonbonatti](https://github.com/denilsonbonatti)
 
-
 ## :video_game: _Game Resgate :helicopter:_
 ##### :heavy_check_mark: Estrutura HTML5;
 ##### :heavy_check_mark: Design CSS3;
