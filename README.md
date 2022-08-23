@@ -21,3 +21,6 @@ Ministrado pelo professor [@denilsonbonatti](https://github.com/denilsonbonatti)
 ###### :red_circle: "S" Move para baixo :arrow_down:
 ###### :red_circle: "D" Move para direita :arrow_right:
 ###### :yellow_circle:"Espaço" Serve Para Atirar :gun:
+
+# Link para o jogo
+https://luandiasrj.github.io/Resgate-jQuery/
